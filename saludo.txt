@@ -2,3 +2,5 @@ hola
 ¿Es esta una forma de comunicarnos?!
 
 Aparentemente así es 
+
+Creo que es intersante una cosa a destacar esque debemos practicar con un inicio más asertado desde repositorio local hasta github en la nube como justo ahora no crees eso?
