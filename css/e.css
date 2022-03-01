@@ -7,3 +7,12 @@ header{
 body{
     color: rgb(23, 73, 211);
 }
+
+footer{
+    width: auto;
+    height: 10%;
+    background-color: grey;
+    text-align: center;
+    color: white;
+    padding: 3px;
+}
