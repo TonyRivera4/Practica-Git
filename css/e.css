@@ -26,4 +26,14 @@ body{
 
 #logo{
     height: 80px;
+
+}
+
+footer{
+    width: auto;
+    height: 10%;
+    background-color: grey;
+    text-align: center;
+    color: white;
+    padding: 3px;
 }
